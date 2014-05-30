@@ -1,0 +1,122 @@
+body {
+	padding: 1em;
+}
+h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, li, button, form, fieldset, label, input, img, embed, video, object, iframe {
+	display: block;
+}
+.clear:after {
+	content: "";
+	display: table;
+	clear: both;
+	height: 0;
+}
+
+/*-----------------------------------------------------------------
+  Text
+-----------------------------------------------------------------*/
+h1 {
+}
+h2 {
+}
+h3 {
+}
+h4 {
+}
+h5 {
+}
+h6 {
+}
+p {
+}
+i, em {
+}
+b, strong {
+}
+q {
+}
+blockquote {
+}
+cite {
+}
+time {
+}
+address {
+}
+
+/*-----------------------------------------------------------------
+  Lists
+-----------------------------------------------------------------*/
+ul {
+}
+ol {
+}
+li {
+}
+
+/*-----------------------------------------------------------------
+  Links
+-----------------------------------------------------------------*/
+a {
+}
+button {
+}
+
+/*-----------------------------------------------------------------
+  Forms
+-----------------------------------------------------------------*/
+form {
+}
+fieldset {
+}
+label {
+}
+input[type="text"] {
+}
+.checkbox label {
+	float: left;
+}
+input[type="checkbox"] {
+	float: left;
+}
+.radio label {
+	float: left;
+}
+input[type="radio"] {
+	float: left;
+}
+select {
+}
+textarea {
+}
+input[type="reset"] {
+}
+input[type="submit"] {
+}
+
+/*-----------------------------------------------------------------
+  Media & Images
+-----------------------------------------------------------------*/
+img, embed, video, object, iframe {
+}
+figure {
+}
+figure img {
+}
+figcaption {
+}
+
+/*-----------------------------------------------------------------
+  Grouped Content
+-----------------------------------------------------------------*/
+section {
+}
+header {
+}
+footer {
+}
+aside {
+}
+nav {
+}
+small {
+}
